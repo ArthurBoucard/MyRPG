@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/arthurboucard/myrpg/badge/master)](https://www.codefactor.io/repository/github/arthurboucard/myrpg/overview/master)
+
 # MyRPG
 
 ## <img width="26px" src="https://newsroom.ionis-group.com/wp-content/uploads/2018/12/epitech-logo-signature-quadri.png"/> Epitech project :
